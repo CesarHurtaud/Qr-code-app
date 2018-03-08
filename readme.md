@@ -1,0 +1,1 @@
+An app to open qr code in a web view
