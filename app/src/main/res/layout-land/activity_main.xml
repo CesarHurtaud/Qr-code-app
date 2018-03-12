@@ -19,11 +19,11 @@
 
     <TextView
         android:id="@+id/textViewWelcome"
-        android:layout_width="200dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="150dp"
+        android:layout_marginTop="80dp"
         android:fontFamily="Roboto"
         android:text="Welcome to Orange's QR code scanner !"
         android:textAlignment="center"
